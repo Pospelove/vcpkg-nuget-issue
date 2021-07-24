@@ -1,0 +1,9 @@
+{
+    "name": "vcpkg-nuget-issue",
+    "version-string": "",
+    "homepage": "https://github.com/Pospelove/vcpkg-nuget-issue",
+    "description": "good repro has a repo",
+    "dependencies": [
+        "sqlite3"
+    ]
+}
