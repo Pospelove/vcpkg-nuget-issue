@@ -2,7 +2,7 @@
 
 This repository was created to reproduce [microsoft/vcpkg#19038](https://github.com/microsoft/vcpkg/issues/19038)
 
-## Sorry, what?
+## Details
 
 There is a manifest file `vcpkg.json`. It contains two dependencies: `cpp-httplib` and `sqlite3`. 
 
