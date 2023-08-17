@@ -8,6 +8,7 @@ There is a manifest file `vcpkg.json`. It contains two dependencies: `cpp-httpli
 
 There is also a GitHub workflow `.github/workflows/test.yml` based on [this example](https://github.com/microsoft/vcpkg/blob/f7c83acf486c572d7b1ebe5894dc83bca4f5faef/docs/users/binarycaching.md#github-packages). Full logs can be found [here](https://github.com/Pospelove/vcpkg-nuget-issue/runs/3149229829?check_suite_focus=true).
 
+
 Everything works as expected for `cpp-httplib`:
 
 ```
